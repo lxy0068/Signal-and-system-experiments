@@ -1,6 +1,6 @@
 # Signal-and-system-experiments
 
-数字信号处理（2023年秋）
+信号与系统实验（2023年秋）
 
 ![image](https://github.com/user-attachments/assets/97271fcf-598c-42be-b83d-78326e30e8d1)
 ![image](https://github.com/user-attachments/assets/53808320-b9b1-4b7b-9f13-d81a2b2e9eb0)
